@@ -17,4 +17,6 @@ Topics coverd:
 *  AVL tree
 *  S-play tree
 *  B and B+ tree
+
+If Questions papers have password, then there ia a text file having password.
   
